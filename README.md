@@ -28,6 +28,14 @@ A 2D rogue like game inspired by Risk of Rain 2 and the Binding of Isaac.
   - Timer and currency tracking/display.  
   - Level director that determines enemy spawns and increases in difficulty as time goes on
 
+
+https://github.com/user-attachments/assets/e8064948-2ad4-4b16-83ef-21949d95089a
+
+
+
+https://github.com/user-attachments/assets/94227bfe-20ce-4402-be56-5112b8eeeb6f
+
+
 ---
 
 ## Notes & Skills Learned
