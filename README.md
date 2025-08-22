@@ -43,8 +43,9 @@ https://github.com/user-attachments/assets/94227bfe-20ce-4402-be56-5112b8eeeb6f
 ## Notes & Skills Learned
 As my first decently sized project, this was very fun to make and also really eye opening when it comes to being a developer. One of the major issues I kept running into
 was organization of my classes and files. Even though commenting is good, being able to have a clean structure makes or breaks a program and I'd say my lack of planning
-undermined my progress and the games performance. Having over 10+ classes with messy imports and includes really taught me that knowing how to solve problems isn't everything. 
-Its the structural planning, ability to expand, and organization of my program in the big picture that matters the most.
+undermined my progress and the games performance. Having over 10+ classes with messy imports and includes really taught me that knowing how to solve problems isn't everything. Its the structural planning, ability to expand, and organization of my program in the big picture that matters the most.
+- I most likely won't continue this project as the foundation is not clean, and python isn't the best language to make games in if I keep expanding it. I want to start
+  new and stronger projects and just learn from this one.
 
 ### Things I've Learned
 1. Clearly seperate logic/backend from ui/front end elements (add folders)
