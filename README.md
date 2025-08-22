@@ -16,17 +16,19 @@ A 2D rogue like game inspired by Risk of Rain 2 and the Binding of Isaac.
 
 ## Gameplay Overview
 
-- **Full 2D Player Movement:** Move using WASD and shoot using arrows.  
-- **Variety of Enemy Types:**  
-  - Enemies follow the player’s position.  
-  - Some enemies dash towards the player.  
-  - Boss enemies with unique designs and abilities like shooting bullets
-- **Interactive Objects:**  
-  - Randomly spawned chests that can be bought (no items yet) 
-  - Teleporters that spawn boss enemies.  
-- **Game Systems:**  
-  - Timer and currency tracking/display.  
-  - Level director that determines enemy spawns and increases in difficulty as time goes on
+1. **Full 2D Player Movement:** Move using WASD and shoot using arrows.  
+2.  **Variety of Enemy Types:**  
+    - Enemies follow the player’s position.  
+    - Some enemies dash towards the player.  
+    - Boss enemies with unique designs and abilities like shooting bullets
+3.  **Interactive Objects:**  
+    - Randomly spawned chests that can be bought (no items yet) 
+    - Teleporters that spawn boss enemies.  
+4.  **Game Systems:**  
+    - Timer and currency tracking/display.  
+    - Level director that determines enemy spawns and increases in difficulty as time goes on
+5.  **UI Elements:**  
+    - Added menu screen with start and quit buttons
 
 
 https://github.com/user-attachments/assets/e8064948-2ad4-4b16-83ef-21949d95089a
